@@ -1,0 +1,6 @@
+{
+  "name": "Gayane's Pink Spanish Piano Game",
+  "description": "An interactive, pink-themed Spanish language app for Gayane to practice Futuro Simple and Futuro Perfecto by playing a virtual piano and guessing conjugated verbs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
